@@ -10,7 +10,7 @@ font-size: 25px;
 
 export const HeaderNav = styled.header`
 background-color: black;
-color: white;
+color: darkgoldenrod;
 
 @media screen and (max-width: 500px){
   background-color: darkcyan;
